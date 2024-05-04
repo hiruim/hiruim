@@ -9,11 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruim&label=Profile%20views&color=0e75b6&style=flat" alt="hiruim" /> </p>
 
-- 📫 How to reach me **hirushahewagama02@gmail.com**
+-  📫 How to reach me **hirushahewagama02@gmail.com**
  
--  🌱 I’m currently learning **Software Engineering @NIBM** 
+-  🌱 I’m currently learning **Software Engineering @NIBM**
 
-- 🤝 I’m looking for help  **for my Projects**..
+-  🌱 I’m interested in Mobile App Development
+
+-  🤝 I’m looking for help  **for my Projects**..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
