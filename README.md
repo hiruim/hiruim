@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Hirusha Hewagamage</h1>
 <h3 align="center">Thank You for taking the time to view my GitHub Profile 💫</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/hiruim/hiruim/assets/143105080/46345bd4-628f-4da9-bd4f-4f5c5dfd07c2
-"> 
+<img align="right" height="300" src="https://static.wixstatic.com/media/a89add_3d73f7e43cff4f37bdf0af4772ef6595~mv2.gif"/>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruim&label=Profile%20views&color=0e75b6&style=flat" alt="hiruim" /> </p>
 
